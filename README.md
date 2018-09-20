@@ -1,4 +1,4 @@
-[ZeroBounce](https://www.zerobounce.net>) NodeJS API v2
+[ZeroBounce](https://www.zerobounce.net) NodeJS API v2
 
 This is a NodeJS wrapper class example for the ZeroBounce API v2.
 
