@@ -4,10 +4,10 @@ This is a NodeJS wrapper class example for the ZeroBounce API v2.
 
 ##### Example usage:
 
-```javascript
-var https = require('https’);
-var api_key = “YOUR_API_KEY";
-var email = "sampleemail@email.com";
+```persistentjavascript
+var https = require('https’)
+var api_key = “YOUR_API_KEY"
+var email = "sampleemail@email.com"
 var ip_address = "";
 
 var options = {
